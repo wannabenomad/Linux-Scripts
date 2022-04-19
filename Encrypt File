@@ -1,3 +1,0 @@
-path=/home/(path)
-cd $path
-gpg -c (file)

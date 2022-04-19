@@ -1,0 +1,9 @@
+# Encryption
+path=/home/(path)
+cd $path
+gpg -c (file)
+
+# Decryption
+path=/home/(path)
+cd $path
+gpg (file).gpg
