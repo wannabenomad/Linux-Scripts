@@ -1,0 +1,5 @@
+# Find available updates
+sudo apt update
+
+# Download updates
+sudo apt upgrade
