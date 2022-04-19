@@ -1,0 +1,5 @@
+# Install
+sudo apt-get install (pkg)
+
+# Uninstall
+sudo apt-get --purge remove (pkg)
